@@ -16,12 +16,12 @@ After the specified time runs out, the old maps are destroyed
 
 Simply clone the repo and use the version you need from the scripts given, attach the script to your GameObject and load the specific map that you want to spawn every time, you can freely choose the other parameters of spawn options.
 
-1.Attach the MapSpawner script to your mapSpawner GameObject
-2.Create a prefab from your map.
-3.Attach the prefab to the Old Map To Delete.
-4.Attach the Map in Scene to the New Map To Spawn.
-5.Attach your Player to the script.
-6.Set the time to delete.
+1) Attach the MapSpawner script to your mapSpawner GameObject
+2) Create a prefab from your map.
+3) Attach the prefab to the Old Map To Delete.
+4) Attach the Map in Scene to the New Map To Spawn.
+5) Attach your Player to the script.
+6) Set the time to delete.
 Enjoy!
 ---
 
